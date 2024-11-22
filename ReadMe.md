@@ -23,6 +23,10 @@ Used Technologies in The Project:
 
 <br>
 
+> 📱 Mobile App [Link](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control)
+
+<br>
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
