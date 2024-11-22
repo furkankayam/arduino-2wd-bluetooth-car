@@ -3,9 +3,9 @@
 <br>
 
 <div align="center">
-<h3> </h3>
-<img src="./images/image.jpg" alt="image">
-<h3>⚡Pinout </h3>
+<h3> ⚡ </h3>
+<img src="./images/image.png" alt="image">
+<h3> ⚡Pinout </h3>
 <img src="./images/pinout.jpg" alt="pinout">
 </div>
 
