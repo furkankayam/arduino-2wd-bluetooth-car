@@ -25,6 +25,8 @@ Used Technologies in The Project:
 
 > 📱 Mobile App [Link](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control)
 
+> 📽️ Video [Link](https://youtu.be/_XC4vbpsuCo?si=Pow616V9p8gHWNCY)
+
 <br>
 
 # License
